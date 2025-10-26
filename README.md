@@ -19,7 +19,7 @@ Dieses Projekt wurde mit folgenden Technologien und Bibliotheken umgesetzt:
 - **NumPy** – Numerische Berechnungen und Array-Verarbeitung
 - **Matplotlib** – Visualisierung von Bildern und Vorhersagen
 - **Pillow (PIL)** – Bildverarbeitung für eigene Fotos
-- PyCharm – Entwicklungsumgebung (IDE), falls du das erwähnen willst
+- PyCharm – Entwicklungsumgebung 
 - CIFAR-10 Dataset – öffentliches Bilddatenset für Klassifikation
 
 ## 🧠 Modellarchitektur
