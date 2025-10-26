@@ -1,7 +1,6 @@
 # 🐱 CIFAR10 – Ist das eine Katze?
 
 Ein kleines Deep-Learning-Projekt mit CIFAR-10 und TensorFlow, das Bilder in 10 Klassen klassifiziert und prüft, ob die Vorhersage „Katze“ lautet. 
-Ideal für Einsteiger, die mit Bildklassifikation experimentieren möchten – und für alle, die Katzen lieben
 
 ## 🔍 Funktionen
 
@@ -89,3 +88,4 @@ Erstellt von Serena – mit viel Lernfreude 😄
 ## 📄 Lizenz
 
 Dieses Projekt kann frei verwendet und angepasst werden – für Lernzwecke, Spaß und persönliche Weiterentwicklung.
+
